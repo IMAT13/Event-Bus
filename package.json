@@ -1,6 +1,6 @@
 {
-  "name": "infra-event-bus",
-  "version": "1.0.0",
+  "name": "event-bus",
+  "version": "1.1.0",
   "main": "index.js",
   "license": "MIT"
 }
